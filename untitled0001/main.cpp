@@ -14,5 +14,8 @@ int main(int argc, char *argv[])
         Qt::QueuedConnection);
     engine.loadFromModule("untitled0001", "Main");
 
+    int j=100;
+
+
     return QGuiApplication::exec();
 }
