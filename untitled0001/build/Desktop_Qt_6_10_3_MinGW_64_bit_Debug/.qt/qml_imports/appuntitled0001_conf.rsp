@@ -1,0 +1,14 @@
+-rootPath
+D:/personal/desktop/output/git-tmp/untitled0001
+-cmake-output
+-output-file
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug/.qt/qml_imports/appuntitled0001_conf.cmake
+-importPath
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug
+-importPath
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug/untitled0001
+-importPath
+D:/Qt/6.10.3/mingw_64/qml
+-qrcFiles
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug/.qt/rcc/qmake_untitled0001.qrc
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug/.qt/rcc/appuntitled0001_raw_qml_0.qrc

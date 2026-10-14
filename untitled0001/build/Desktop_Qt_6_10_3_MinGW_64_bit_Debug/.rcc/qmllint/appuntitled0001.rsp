@@ -1,0 +1,14 @@
+--bare
+-I
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug
+-I
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug/untitled0001
+-I
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug
+-I
+D:/Qt/6.10.3/mingw_64/qml
+--resource
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug/.qt/rcc/qmake_untitled0001.qrc
+--resource
+D:/personal/desktop/output/git-tmp/untitled0001/build/Desktop_Qt_6_10_3_MinGW_64_bit_Debug/.qt/rcc/appuntitled0001_raw_qml_0.qrc
+D:/personal/desktop/output/git-tmp/untitled0001/Main.qml
